@@ -1,10 +1,10 @@
 # SOLID 
 
--Single Responsibility Principle
--Open / Closed Principle (OCP)
--Liskov Substitution Principle
--Interface Segregation Principle
--Dependency Inversion Principle
+- Single Responsibility Principle
+- Open / Closed Principle (OCP)
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
 
 ## Single Responsibility Principle
 
